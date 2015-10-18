@@ -1,2 +1,3 @@
 # execrable.js
-all the ____ JS in one place 
+a framework where 
+all the ____ JS is in one place;
